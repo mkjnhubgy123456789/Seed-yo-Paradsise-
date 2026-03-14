@@ -1,0 +1,8 @@
+{
+  "name": "SpectroModel Pro Suite",
+  "description": "An elite integrated platform for creative asset management, AI-driven branding, and business intelligence, featuring the Seed to Paradise flagship engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
